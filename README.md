@@ -9,6 +9,7 @@
 ```bash
 pip install -r requirements.txt
 가상 환경을 구성해서 설치하는 것을 추천드립니다
+```
 
 ####가상 환경 구성하는 방법
 
